@@ -6,7 +6,7 @@ es mi primer proyecto no juzgar Porfa XD
 Un reproductor de música creado en Termux y para Termux
 
 ## Instalación
-1. Clona este repositorio: `git clone https:                                     
+1. Clona este repositorio: `git clone https://github.com/geovannygb967-debug/reproductor_de_musica-Termux`                                    
 2. Entra al directorio donde se descargó el archivo
 3. Dale permisos de ejecución al script: `chmod +x music.sh`
 4. Ejecuta el script: `bash music.sh`
