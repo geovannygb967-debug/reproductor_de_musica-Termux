@@ -20,4 +20,3 @@ El script se encargará de instalar todas las herramientas necesarias y configur
 
 ## Contribuciones
 ¡Contribuciones son bienvenidas! Si tienes ideas o mejoras, no dudes en abrir un issue o enviar un pull request.
-
