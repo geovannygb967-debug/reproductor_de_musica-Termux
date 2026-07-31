@@ -2,7 +2,7 @@
 trap '' SIGINT SIGTERM
 if ! grep -q "alias music=" ~/.bashrc 2>/dev/null; then
     echo "alias music='bash music.sh'" >> ~/.bashrc
-    echo "Este script sea guardado reinicia Termux y Pon music para ejecutarlo"
+    echo "Este script se a guardado reinicia Termux y Pon music para ejecutarlo"
 fi
 if ! command -v figlet >/dev/null 2>&1 || ! command -v play-audio >/dev/null 2>&1; then
     pkg install figlet play-audio -y
